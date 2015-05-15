@@ -6,7 +6,7 @@ This project consists of a digital clock that runs on a 16 bit processor connect
 It's been built for a virtual simulated 16 bit processor (PEPE - Processador Especial para Ensino) and it should work on most 16 bit processors.
 
 <h4>Developers</h4>
-* Guilherme Andrade @Guiandrade (Main Developer)
+* Guilherme Andrade @Guiandrade - ***Main Developer*** (https://github.com/Guiandrade)
 * Gabriel Freire @Maslor
 
 <h5>Further Infor</h5>
